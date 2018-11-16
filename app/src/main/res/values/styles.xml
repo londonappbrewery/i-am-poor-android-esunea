@@ -8,4 +8,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="title">
+        <item name="android:textSize">@dimen/title_textSize</item>
+        <item name="android:textColor">@color/titleColor</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="p">
+        <item name="android:textSize">@dimen/p_textSize</item>
+        <item name="android:textColor">@color/pColor</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
 </resources>
